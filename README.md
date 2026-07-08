@@ -90,11 +90,6 @@
       <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PrashantCodes150&layout=compact&theme=tokyonight&hide_border=true&all_commits=true" alt="Top Languages" width="48%" />
     </a>
   </p>
-  <p align="center">
-    <a href="https://github.com/PrashantCodes150">
-      <img src="https://streak-stats.demolab.com/?user=PrashantCodes150&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-    </a>
-  </p>
 </div>
 
 ---
