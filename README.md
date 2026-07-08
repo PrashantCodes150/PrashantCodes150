@@ -84,10 +84,10 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/PrashantCodes150">
-      <img src="https://github-readme-stats.vercel.app/api?username=PrashantCodes150&show_icons=true&theme=onedark&hide_border=true" alt="PrashantCodes150 Stats" width="48%" />
+      <img src="https://github-stats-extended.vercel.app/api?username=PrashantCodes150&show_icons=true&theme=onedark&hide_border=true" alt="PrashantCodes150 Stats" width="48%" />
     </a>
     <a href="https://github.com/PrashantCodes150">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantCodes150&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" width="48%" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PrashantCodes150&layout=compact&theme=onedark&hide_border=true&all_commits=true" alt="Top Languages" width="48%" />
     </a>
   </p>
 </div>
