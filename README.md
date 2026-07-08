@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="220" alt="Developer Coding" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" alt="Developer Coding" />
   
   # 👋 Hi, I'm Prashant Singh
   ### Full-Stack Developer | UX/UI Enthusiast | Open Source Contributor
@@ -17,7 +17,9 @@
   </p>
 
   <p>
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPrashantCodes150%2FPrashantCodes150&count_bg=%238A2BE2&title_bg=%23555555&title=Profile%20Views&edge_flat=false" alt="Visitor Counter" />
+    <a href="https://github.com/PrashantCodes150">
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPrashantCodes150%2FPrashantCodes150&count_bg=%238A2BE2&title_bg=%23555555&title=Profile%20Views&edge_flat=false" alt="Visitor Counter" />
+    </a>
   </p>
 
   <div style="margin-top: 15px; margin-bottom: 25px;">
