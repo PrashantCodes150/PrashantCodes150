@@ -11,6 +11,13 @@
     <a href="https://github.com/PrashantCodes150">
       <img src="https://img.shields.io/badge/GitHub-PrashantCodes150-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
+    <a href="https://www.linkedin.com/in/prashant-singh-84a2a7332" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=PrashantCodes150&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Visitor Counter" />
   </p>
 
   <div style="margin-top: 15px; margin-bottom: 25px;">
