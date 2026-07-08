@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o0d3Nrbm54Mnpwb2tzN2U4a3N0aXBscjF2aTZyMTZ6YjJzNDR0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L13yI3ztdLW8aWu5pH/giphy.gif" width="150" alt="Developer Coding" />
   
-  # 👋 Hi, I'm Prashant Singh (Sanjana)
+  # 👋 Hi, I'm Prashant Singh
   ### Full-Stack Developer | UX/UI Enthusiast | Open Source Contributor
   
   <p>
