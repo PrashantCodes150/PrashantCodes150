@@ -84,10 +84,15 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/PrashantCodes150">
-      <img src="https://github-stats-extended.vercel.app/api?username=PrashantCodes150&show_icons=true&theme=tokyonight&hide_border=true" alt="PrashantCodes150 Stats" width="48%" />
+      <img src="https://github-stats-extended.vercel.app/api?username=PrashantCodes150&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="PrashantCodes150 Stats" width="48%" />
     </a>
     <a href="https://github.com/PrashantCodes150">
       <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PrashantCodes150&layout=compact&theme=tokyonight&hide_border=true&all_commits=true" alt="Top Languages" width="48%" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/PrashantCodes150">
+      <img src="https://streak-stats.demolab.com/?user=PrashantCodes150&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
     </a>
   </p>
 </div>
