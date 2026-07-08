@@ -24,9 +24,15 @@
 ---
 
 ## 💫 About Me
-* 💻 **Currently Building:** [ArtisanAlloy](https://github.com/PrashantCodes150/ArtisanAlloy) - an ultra-luxury, high-performance handcrafted jewelry e-commerce platform built with React, TypeScript, Framer Motion, and Node.js.
-* 🛠️ **Core Expertise:** Designing clean frontend architectures, creating responsive glassmorphic layouts, and building secure full-stack REST APIs.
-* ⚡ **Passion:** Performance optimization, strict type safety, and clean user experience designs that leave a premium first impression.
+* 🛠️ **Core Expertise:** Full-stack development, designing clean frontend architectures, responsive glassmorphic layouts, and secure backend REST APIs.
+* ⚡ **Passion:** Performance optimization, strict type safety, and immersive UX/UI designs that leave a premium first impression.
+
+---
+
+## 🚀 Featured Projects
+
+* 💍 **[ArtisanAlloy](https://github.com/PrashantCodes150/ArtisanAlloy)** — A state-of-the-art web application engineered to redefine digital jewelry retailing. Combining dark-mode glassmorphism, golden typography, and micro-animations with React, TypeScript, Framer Motion, and a Node.js API backend.
+* 🃏 **[I-Doubt-It](https://github.com/PrashantCodes150/I-DOUBT-IT)** — An interactive multiplayer card game featuring intelligent AI bots, dynamic XP & leveling systems, real-time WebRTC audio/video streaming, global leaderboards, and live in-game chat.
 
 ---
 
