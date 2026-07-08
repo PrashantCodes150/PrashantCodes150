@@ -17,7 +17,7 @@
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=PrashantCodes150&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Visitor Counter" />
+    <img src="https://gpvc.arturio.dev/PrashantCodes150?label=Profile%20Views&color=blueviolet&style=flat-square" alt="Visitor Counter" />
   </p>
 
   <div style="margin-top: 15px; margin-bottom: 25px;">
