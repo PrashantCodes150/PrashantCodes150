@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PrashantCodes150/PrashantCodes150/main/developer.gif" width="150" alt="Developer Coding" />
+  <img src="https://raw.githubusercontent.com/PrashantCodes150/PrashantCodes150/main/developer.svg" width="100%" alt="Developer Coding" />
   
   # 👋 Hi, I'm Prashant Singh
   ### Full-Stack Developer | UX/UI Enthusiast | Open Source Contributor

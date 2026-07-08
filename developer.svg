@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" width="100%" height="200" style="background:#1a1b26; border-radius: 8px; font-family: 'Segoe UI', system-ui, sans-serif;">
+  <style>
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(8px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); filter: drop-shadow(0 0 2px rgba(122, 162, 247, 0.4)); }
+      50% { transform: scale(1.03); filter: drop-shadow(0 0 12px rgba(122, 162, 247, 0.8)); }
+    }
+    @keyframes rotate {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+    
+    .terminal-text {
+      fill: #a9b1d6;
+      font-size: 13.5px;
+      font-family: 'Fira Code', 'Courier New', monospace;
+    }
+    .keyword { fill: #bb9af3; font-weight: bold; }
+    .string { fill: #9ece6a; }
+    .property { fill: #7aa2f7; }
+    .punctuation { fill: #89ddff; }
+    .cursor {
+      fill: #f7768e;
+      animation: blink 1s step-end infinite;
+    }
+    .line1 { opacity: 0; animation: fadeIn 0.4s ease-out 0.2s forwards; }
+    .line2 { opacity: 0; animation: fadeIn 0.4s ease-out 0.8s forwards; }
+    .line3 { opacity: 0; animation: fadeIn 0.4s ease-out 1.4s forwards; }
+    .line4 { opacity: 0; animation: fadeIn 0.4s ease-out 2.0s forwards; }
+    .line5 { opacity: 0; animation: fadeIn 0.4s ease-out 2.6s forwards; }
+    
+    .visual-group {
+      transform-origin: 490px 105px;
+      animation: pulse 3s ease-in-out infinite;
+    }
+    .rotating-circle {
+      transform-origin: 490px 105px;
+      animation: rotate 20s linear infinite;
+    }
+  </style>
+
+  <!-- Window Border and Background -->
+  <rect x="0.5" y="0.5" rx="7.5" width="599" height="199" fill="#1a1b26" stroke="#24283b" stroke-width="1.5"/>
+  
+  <!-- Titlebar -->
+  <path d="M0 8 C0 3.58 3.58 0 8 0 L592 0 C596.42 0 600 3.58 600 8 L600 30 L0 30 Z" fill="#1f2335" />
+  <circle cx="18" cy="15" r="5" fill="#f7768e" />
+  <circle cx="32" cy="15" r="5" fill="#e0af68" />
+  <circle cx="46" cy="15" r="5" fill="#9ece6a" />
+  <text x="300" y="19" fill="#565f89" font-size="11" text-anchor="middle" font-weight="bold">terminal @ prashant-singh</text>
+
+  <!-- Code Lines -->
+  <!-- Line 1 -->
+  <g class="line1">
+    <text x="25" y="65" class="terminal-text">
+      <tspan class="keyword">const</tspan> <tspan fill="#e0af68">developer</tspan> <tspan class="punctuation">=</tspan> <tspan class="punctuation">{</tspan>
+    </text>
+  </g>
+  
+  <!-- Line 2 -->
+  <g class="line2">
+    <text x="25" y="90" class="terminal-text">
+      <tspan class="property">  name</tspan><tspan class="punctuation">:</tspan> <tspan class="string">'Prashant Singh'</tspan><tspan class="punctuation">,</tspan>
+    </text>
+  </g>
+
+  <!-- Line 3 -->
+  <g class="line3">
+    <text x="25" y="115" class="terminal-text">
+      <tspan class="property">  skills</tspan><tspan class="punctuation">:</tspan> <tspan class="punctuation">[</tspan><tspan class="string">'React'</tspan><tspan class="punctuation">, </tspan><tspan class="string">'TypeScript'</tspan><tspan class="punctuation">, </tspan><tspan class="string">'C++'</tspan><tspan class="punctuation">, </tspan><tspan class="string">'Python'</tspan><tspan class="punctuation">]</tspan><tspan class="punctuation">,</tspan>
+    </text>
+  </g>
+
+  <!-- Line 4 -->
+  <g class="line4">
+    <text x="25" y="140" class="terminal-text">
+      <tspan class="property">  building</tspan><tspan class="punctuation">:</tspan> <tspan class="punctuation">[</tspan><tspan class="string">'ArtisanAlloy'</tspan><tspan class="punctuation">, </tspan><tspan class="string">'I-Doubt-It'</tspan><tspan class="punctuation">]</tspan>
+    </text>
+  </g>
+
+  <!-- Line 5 -->
+  <g class="line5">
+    <text x="25" y="165" class="terminal-text">
+      <tspan class="punctuation">};</tspan>
+    </text>
+    <rect class="cursor" x="45" y="152" width="7" height="15" />
+  </g>
+
+  <!-- Right-side Animated Cyberpunk Tech Sphere -->
+  <g class="visual-group">
+    <circle cx="490" cy="105" r="42" fill="#24283b" opacity="0.4" />
+    <circle class="rotating-circle" cx="490" cy="105" r="42" fill="none" stroke="#7aa2f7" stroke-width="1.5" stroke-dasharray="8 6" />
+    <circle cx="490" cy="105" r="35" fill="none" stroke="#bb9af3" stroke-width="1" opacity="0.5" />
+    
+    <!-- Code Bracket Symbol in Center -->
+    <path d="M478 95 L470 105 L478 115 M502 95 L510 105 L502 115 M486 88 L494 122" stroke="#9ece6a" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>
