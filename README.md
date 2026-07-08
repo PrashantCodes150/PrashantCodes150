@@ -18,14 +18,14 @@
 
   <p>
     <a href="https://github.com/PrashantCodes150">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPrashantCodes150%2FPrashantCodes150&count_bg=%238A2BE2&title_bg=%23555555&title=Profile%20Views&edge_flat=false" alt="Visitor Counter" />
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=PrashantCodes150.PrashantCodes150&left_color=grey&right_color=blueviolet" alt="Visitor Counter" />
     </a>
   </p>
 
   <div style="margin-top: 15px; margin-bottom: 25px;">
     <!-- GitHub Achievements Trophies -->
     <a href="https://github.com/PrashantCodes150">
-      <img src="https://github-profile-trophy.vercel.app/?username=PrashantCodes150&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+      <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=PrashantCodes150&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
     </a>
   </div>
 </div>
